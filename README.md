@@ -1,3 +1,3 @@
 # tutorial-git
 this is my first git repositary
-Author - Krishna patel
+Author - Krishna Patel
